@@ -1,6 +1,6 @@
 # Hello-Word-
 
-Ramo- Conhecer GITHub: Finalidade: Armazenar informações sobre o GITHUB
+Ramo- Conhecer GITHub - Finalidade: Armazenar informações sobre o GITHUB
 
 - GIT: Sistema de controle de versão distríbuido e um sistema de gerenciamento de código-fonte, com ênfase de velocidade. É uma espécie de "Linha do Tempo" feita pra evitar burradas no projeto.
 - GITHUB: É uma plataforma de código de hospedagem para controle de versão e colaboração, que serve para compartilhar códigos e projetos, além de acompanhar projetos de outros desenvolvedores. Funciona como uma Rede Social para desenvolvedores.
