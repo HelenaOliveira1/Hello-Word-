@@ -17,7 +17,7 @@ Ex.: Google Drive. Comando init: Iniciar um repositório no git.
 - Áreas de operação GIT: São as áreas onde os arquivos irão transitar enquanto então sendo editados e modificados.
               **- Git Directory: é onde o Git guarda os dados e objetos de seu projeto;
               **- Work Directory: é onde você vai trabalhar;
-              **- Stage Area: quando um arquivo sofr e alteração eles vão para staging area, que é uma area intemediária entre as outras.
+              **- Stage Area: quando um arquivo sofre alteração eles vão para staging area, que é uma area intemediária entre as outras.
        Fluxo de dados: Working Directory -> Stage area -> git directory -> working Directory .
 - Comando Clonar: serve para copiar o projeto do repositório remoto para um repositório local ou vice-versa. A área que é clonada é o git directory.
 - Comando PUSH: o push empurra as informações enviadas pelo git pull para o servidor, incluindo-as no histórico do seu projeto. Por isso, o git push só pode ser realizado após o git pull.
