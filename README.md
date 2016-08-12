@@ -5,7 +5,8 @@ Ramo- Conhecer GITHub - Finalidade: Armazenar informações sobre o GITHUB
 - GIT: Sistema de controle de versão distríbuido e um sistema de gerenciamento de código-fonte, com ênfase de velocidade. É uma espécie de "Linha do Tempo" feita pra evitar burradas no projeto.
 - GITHUB: É uma plataforma de código de hospedagem para controle de versão e colaboração, que serve para compartilhar códigos e projetos, além de acompanhar projetos de outros desenvolvedores. Funciona como uma Rede Social para desenvolvedores.
 - O que são repositórios: É um local na internet para armazenar pacotes de software que podem ser recuperados e instalados em um computador, quando transferidos para este são chamados de repositório local, quando permanecidos na internet -Respositório Remoto.
-Ex.: Google Drive. Comando init: Iniciar um repositório no git.
+Ex.: Google Drive. 
+- Comando init: Iniciar um repositório no git.
 - O que são Ramificações (Branchs): É a maneira de trabalhar em diferentes versões de um repositório de uma só vez. Aqui no GitHub todo repositório vem com um ramo (Branch) definitivo master, e os outros são apenas cópias destes.
 -      Comando COMMIT: Usado para salvar as mudanças realizadas.
         **-Commit message: Descrição da mudança realizada.
