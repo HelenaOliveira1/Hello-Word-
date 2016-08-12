@@ -7,7 +7,7 @@ Ramo- Conhecer GITHub - Finalidade: Armazenar informações sobre o GITHUB
 - O que são repositórios: É um local na internet para armazenar pacotes de software que podem ser recuperados e instalados em um computador, quando transferidos para este são chamados de repositório local, quando permanecidos na internet -Respositório Remoto.
 Ex.: Google Drive. Comando init: Iniciar um repositório no git.
 - O que são Ramificações (Branchs): É a maneira de trabalhar em diferentes versões de um repositório de uma só vez. Aqui no GitHub todo repositório vem com um ramo (Branch) definitivo master, e os outros são apenas cópias destes.
-- Comando COMMIT: Usado para salvar as mudanças realizadas.
+-      Comando COMMIT: Usado para salvar as mudanças realizadas.
         **-Commit message: Descrição da mudança realizada.
 - Comando PULL: Serve para você desenvolvedor enviar seu projeto e trazer informacôes comitadas de outros desenvolvedores, para um contribuidor, e para o público. No GITHub este comando é chamado de Pull Requests:
                         **-Serve para você propôr suas mudanças no projeto e solicitar que alguém revise e puxe sua contribuição, tendo a opção de fundi-los ao seu ramo.
