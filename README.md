@@ -10,7 +10,7 @@ Ex.: Google Drive.
 - O que são Ramificações (Branchs): É a maneira de trabalhar em diferentes versões de um repositório de uma só vez. Aqui no GitHub todo repositório vem com um ramo (Branch) definitivo master, e os outros são apenas cópias destes.
 -      Comando COMMIT: Usado para salvar as mudanças realizadas.
         **-Commit message: Descrição da mudança realizada.
-- Comando PULL: Serve para você desenvolvedor enviar seu projeto e trazer informacôes comitadas de outros desenvolvedores, para um contribuidor, e para o público. No GITHub este comando é chamado de Pull Requests:
+- Comando PULL: Serve para você desenvolvedor enviar seu projeto e trazer informações comitadas de outros desenvolvedores, para um contribuidor, e para o público. No GITHub este comando é chamado de Pull Requests:
                         **-Serve para você propôr suas mudanças no projeto e solicitar que alguém revise e puxe sua contribuição, tendo a opção de fundi-los ao seu ramo.
                         **-Diffs: o pull requests serve também para comparar os ramos, mostrando os diffs, diferenças, sobre o conteúdo de ambos os ramos, mostra em vermelho o que você retirou do ramo, e em verde o que você adcionou.
                         **-Você pode iniciar discussões sobre as mudanças, com outros contribuidores.
